@@ -491,11 +491,5 @@ b7.place(x=100,y=550)
 b5.place(x=100,y=650)
 b6.place(x=900,y=750)
 
-#image1 = Image.open("hospital.jpg")
-#test = ImageTk.PhotoImage(image1)
-#label1 = tkinter.Label(image=test)
-#label1.image = test
-#label1.place(x=400,y=200)
-
 root.resizable(False,False)
 root.mainloop()
